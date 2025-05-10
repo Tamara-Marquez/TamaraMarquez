@@ -2,6 +2,7 @@
 ## About the project
 
 **What is ths project about? :**
+<br>
 The project is a virtual platform for a shopping mall that is about to open. It features a variety of categories, ranging from appliances to supermarket products.
 
 **Who is the author? :** 
