@@ -1,5 +1,5 @@
 # Curso de programación full stack  
-## About the project
+# About the project
 
 **What is ths project about? :**
 <br>
